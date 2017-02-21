@@ -1,1 +1,1 @@
-# Alpro-II
+Algoritma Pemograman 2
