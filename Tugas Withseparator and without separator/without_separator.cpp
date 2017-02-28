@@ -6,9 +6,9 @@ NPM			:	0616103028
 Nama    : Andry Nugrohopangestu
 NPM     : 0616103036
 ==========================================
-Prodi		  :	Teknik Informatika
-Class		  :	B
-Fakultas	:	Universitas Widyatama
+Prodi		:	Teknik Informatika
+Class		:	B
+Fakultas:	Universitas Widyatama
 ========================================**/
 
 #include <stdio.h>
