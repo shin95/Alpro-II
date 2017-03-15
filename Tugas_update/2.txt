@@ -1,0 +1,11 @@
+IF mhsa 70
+IF mhsb 80
+IF mhsc 70
+IF mhsd 75
+IF mhse 80
+IF mhsf 75
+IF mhsg 50
+IF mhsh 70
+IF mhsi 75
+IF mhsj 80
+IF mhsk 75
